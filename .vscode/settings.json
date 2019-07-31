@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\vikbe\\.platformio\\penv\\Scripts;C:\\Users\\vikbe\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.2+9-jre\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\PuTTY\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Users\\vikbe\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin;;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.2+9-jre\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\PuTTY\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Users\\vikbe\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin;",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
